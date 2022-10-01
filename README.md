@@ -25,7 +25,7 @@ Write your own steps
 ## PROGRAM
 
 Include your code here
-![ALT][exp4.ipynb "exp4.ipynb"]
+![ALT] [exp4.ipynb "exp4.ipynb"]
 
 ## OUTPUT
 
